@@ -1,0 +1,392 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-19T00:00:00Z",
+  "cheats": [
+    {
+      "id": "invincibility",
+      "shortTitle": "Invincibility",
+      "category": "player",
+      "description": "Makes your character immune to damage for 5 minutes.",
+      "iconName": "shield-check",
+      "ps5": [
+        "RIGHT",
+        "X",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "R1",
+        "RIGHT",
+        "LEFT",
+        "X",
+        "TRIANGLE"
+      ],
+      "xbox": [
+        "RIGHT",
+        "A",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "RB",
+        "RIGHT",
+        "LEFT",
+        "A",
+        "Y"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "max-health",
+      "shortTitle": "Health & Armor",
+      "category": "player",
+      "description": "Refills health and body armor.",
+      "iconName": "heart-pulse",
+      "ps5": [
+        "CIRCLE",
+        "L1",
+        "TRIANGLE",
+        "R2",
+        "X",
+        "SQUARE",
+        "CIRCLE",
+        "RIGHT",
+        "SQUARE",
+        "L1",
+        "L1",
+        "L1"
+      ],
+      "xbox": [
+        "B",
+        "LB",
+        "Y",
+        "RT",
+        "A",
+        "X",
+        "B",
+        "RIGHT",
+        "X",
+        "LB",
+        "LB",
+        "LB"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "fast-run",
+      "shortTitle": "Fast Run",
+      "category": "player",
+      "description": "Sprint faster on foot.",
+      "iconName": "footprints",
+      "ps5": [
+        "TRIANGLE",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "L2",
+        "L1",
+        "SQUARE"
+      ],
+      "xbox": [
+        "Y",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "LT",
+        "LB",
+        "X"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "super-jump",
+      "shortTitle": "Super Jump",
+      "category": "player",
+      "description": "Hold jump to leap much higher.",
+      "iconName": "person-standing",
+      "ps5": [
+        "LEFT",
+        "LEFT",
+        "TRIANGLE",
+        "TRIANGLE",
+        "RIGHT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "SQUARE",
+        "R1",
+        "R2"
+      ],
+      "xbox": [
+        "LEFT",
+        "LEFT",
+        "Y",
+        "Y",
+        "RIGHT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "X",
+        "RB",
+        "RT"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "weapons",
+      "shortTitle": "Weapon Set",
+      "category": "weapons",
+      "description": "Grants a selection of weapons and ammunition.",
+      "iconName": "crosshair",
+      "ps5": [
+        "TRIANGLE",
+        "R2",
+        "LEFT",
+        "L1",
+        "X",
+        "RIGHT",
+        "TRIANGLE",
+        "DOWN",
+        "SQUARE",
+        "L1",
+        "L1",
+        "L1"
+      ],
+      "xbox": [
+        "Y",
+        "RT",
+        "LEFT",
+        "LB",
+        "A",
+        "RIGHT",
+        "Y",
+        "DOWN",
+        "X",
+        "LB",
+        "LB",
+        "LB"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "flaming-bullets",
+      "shortTitle": "Flaming Bullets",
+      "category": "weapons",
+      "description": "Bullets ignite targets on impact.",
+      "iconName": "flame",
+      "ps5": [
+        "L1",
+        "R1",
+        "SQUARE",
+        "R1",
+        "LEFT",
+        "R2",
+        "R1",
+        "LEFT",
+        "SQUARE",
+        "RIGHT",
+        "L1",
+        "L1"
+      ],
+      "xbox": [
+        "LB",
+        "RB",
+        "X",
+        "RB",
+        "LEFT",
+        "RT",
+        "RB",
+        "LEFT",
+        "X",
+        "RIGHT",
+        "LB",
+        "LB"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "comet",
+      "shortTitle": "Sports Car",
+      "category": "vehicles",
+      "description": "Spawns a sports car in a clear nearby space.",
+      "iconName": "car",
+      "ps5": [
+        "R1",
+        "CIRCLE",
+        "R2",
+        "RIGHT",
+        "L1",
+        "L2",
+        "X",
+        "X",
+        "SQUARE",
+        "R1"
+      ],
+      "xbox": [
+        "RB",
+        "B",
+        "RT",
+        "RIGHT",
+        "LB",
+        "LT",
+        "A",
+        "A",
+        "X",
+        "RB"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "bmx",
+      "shortTitle": "BMX Bike",
+      "category": "vehicles",
+      "description": "Spawns a BMX bicycle nearby.",
+      "iconName": "bike",
+      "ps5": [
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "SQUARE",
+        "CIRCLE",
+        "TRIANGLE",
+        "R1",
+        "R2"
+      ],
+      "xbox": [
+        "LEFT",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT",
+        "X",
+        "B",
+        "Y",
+        "RB",
+        "RT"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "buzzard",
+      "shortTitle": "Attack Helicopter",
+      "category": "vehicles",
+      "description": "Spawns a helicopter where there is enough room.",
+      "iconName": "helicopter",
+      "ps5": [
+        "CIRCLE",
+        "CIRCLE",
+        "L1",
+        "CIRCLE",
+        "CIRCLE",
+        "CIRCLE",
+        "L1",
+        "L2",
+        "R1",
+        "TRIANGLE",
+        "CIRCLE",
+        "TRIANGLE"
+      ],
+      "xbox": [
+        "B",
+        "B",
+        "LB",
+        "B",
+        "B",
+        "B",
+        "LB",
+        "LT",
+        "RB",
+        "Y",
+        "B",
+        "Y"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "weather",
+      "shortTitle": "Change Weather",
+      "category": "world",
+      "description": "Cycles through weather conditions.",
+      "iconName": "cloud-sun",
+      "ps5": [
+        "R2",
+        "X",
+        "L1",
+        "L1",
+        "L2",
+        "L2",
+        "L2",
+        "SQUARE"
+      ],
+      "xbox": [
+        "RT",
+        "A",
+        "LB",
+        "LB",
+        "LT",
+        "LT",
+        "LT",
+        "X"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "moon-gravity",
+      "shortTitle": "Moon Gravity",
+      "category": "world",
+      "description": "Reduces gravity for floatier movement.",
+      "iconName": "moon",
+      "ps5": [
+        "LEFT",
+        "LEFT",
+        "L1",
+        "R1",
+        "L1",
+        "RIGHT",
+        "LEFT",
+        "L1",
+        "LEFT"
+      ],
+      "xbox": [
+        "LEFT",
+        "LEFT",
+        "LB",
+        "RB",
+        "LB",
+        "RIGHT",
+        "LEFT",
+        "LB",
+        "LEFT"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    },
+    {
+      "id": "slow-motion",
+      "shortTitle": "Slow Motion",
+      "category": "world",
+      "description": "Slows the action; repeat to cycle intensity.",
+      "iconName": "gauge",
+      "ps5": [
+        "TRIANGLE",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "SQUARE",
+        "R2",
+        "R1"
+      ],
+      "xbox": [
+        "Y",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "X",
+        "RT",
+        "RB"
+      ],
+      "notes": "Sample catalog for interface testing. Not verified for any upcoming game. Cheats may disable trophies/achievements for the current session."
+    }
+  ]
+}
